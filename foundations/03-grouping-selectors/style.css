@@ -1,0 +1,15 @@
+.ele_1,
+.ele_2{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.ele_1{
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.ele_2{
+    background-color: hsl(59, 100%, 50%);
+}

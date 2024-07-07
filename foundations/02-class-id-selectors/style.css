@@ -1,0 +1,20 @@
+.odd_numbered{
+    background-color: #ff00b3;
+    font-family: Verdana,"Dejavu Sans", sans-serif;
+
+}
+
+#ele_2{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#ele_3{
+    font-size: 24px;
+}
+
+#ele_4{
+    background-color: #91ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
